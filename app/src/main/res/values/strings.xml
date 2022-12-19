@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EXAM</string>
+    <string name="hello_welcome">Hello Welcome</string>
+    <string name="submit">submit</string>
+    <string-array name="TODO">
+        <item> House Cleaning</item>
+        <item>Study</item>
+        <item>Sport</item>
+        <item>Do Some Activites "Out Door"</item>
+    </string-array>
+</resources>
